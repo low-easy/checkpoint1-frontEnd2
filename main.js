@@ -45,32 +45,7 @@ buttonRegisterReference.addEventListener('click', function(event){
         </div>    
     </div>`)
 
-    // recipeColectionReference.innerHTML += (`
-    //     <div class="card">
-    //     <img class="card-img-top" src="${recipeCard.image}" alt="card receita">
-    //     <div class="card-body">
-    //     <h5 class="card-title">${recipeCard.title}</h5>
-    //     <p class="card-text">${recipeCard.description}</p>
-    //     </div>
-    // </div>`)
-
-//     recipeColectionReference.innerHTML += (`
    
-//     <div id="cardStyle" class="col-4">
-//         <h2>
-//             ${recipeCard.title}
-//         </h2>
-        
-//         <img src="${recipeCard.image}" alt="">
-
-//         <p>
-//             ${recipeCard.description}
-//         </p>
-//     </div>    
-// </div>`)
-
-
-
     //Criando um banco de Dados 
 
     recipeCardArray.push(recipeCard)

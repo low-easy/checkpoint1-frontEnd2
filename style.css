@@ -40,9 +40,6 @@ form input{
     text-align:left;
 }
 
-/* .card{
-    style="width: 18rem;"
-} */
 
 .container-fluid{
 
@@ -63,16 +60,9 @@ form input{
 
 }
 
-/* #cardStyle img{
-
-        width: 15rem;
-        height: 15rem;
-
-} */
-
 
 #cardStyle img{
-    object-position: center; /* Center the image within the element */
+    object-position: center;
     width: 100%;
     max-height: 300px;
     margin-bottom: 1rem;
